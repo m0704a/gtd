@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "gtd",
+    "packageName": "hu.pnt.gtd",
+    "packageFolder": "hu/pnt/gtd",
+    "serverPort": 8080,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mariadb",
+    "prodDatabaseType": "mariadb",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "cucumber"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.6.1",
+    "jwtSecretKey": "YzQ1Yjg3Y2U3ZWZjODA4M2QxMjk0ZWI1Njg3N2M2MjkzMTliYjg1OWViZGEzOTFiYmUwMGVhOWRlMWMzMjRiNjM5MzAxYTY0NjAwOGM4ODFmYzBiZTdlZjAzNzZlNzcyMjg5ZWNmNzA0ZTRhNDRhYjdlZjIzMDcyNWMwNzM2OTI="
+  },
+  "git-provider": "GitHub",
+  "git-company": "m0704a",
+  "repository-name": "gtd"
+}
